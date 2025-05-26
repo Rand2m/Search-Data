@@ -1,8 +1,11 @@
-# NAMINT
+# Random Hackers
 
-![NAMINT logo](favicon.png)
+![Random Hackers logo](favicon.png)
 
-A simple javascript tool to prepare possible name and login search patterns with links.
+أداة جافا سكريبت بسيطة لإعداد نماذج بحث محتملة عن الأسماء وتسجيلات الدخول مع روابط. هذه الأداة لأغراض تعليمية فقط. لا يُروّج المؤلف لأي أنشطة غير قانونية. يُمنع منعًا باتًا استخدام هذه الأداة في أنشطة غير قانونية. أنت المسؤول عن أفعالك. 
 
-The above tool is for educational purposes only. The author does not promote or encourage any illegal activities.
-Using this tool for illegal activities is strictly prohibited. You are the one responsible for your actions.
+انضم لقناة التليجرام: 
+@Rand2m | https://t.me/+cpHoB0StScVhZjY0
+
+المطور: 
+@r_3_j_f
